@@ -6,6 +6,7 @@ INSTALLATION
 ------------
 
 Create an empty directory /usr/share/plymouth/themes/osu-simple
+blah
 
 Copy contents of the archive to /usr/share/plymouth/themes/osu-simple
 
