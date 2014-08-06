@@ -10,7 +10,7 @@ This is a Ubuntu-derived work.
 	sudo mkdir /usr/share/plymouth/themes/osu-simple
 	sudo cp -av * /usr/share/plymouth/themes/osu-simple/
 	sudo plymouth-set-default-theme osu-simple
-	sudo update-initrd -u
+	sudo update-initramfs -u
 
 ##Switching##
 
