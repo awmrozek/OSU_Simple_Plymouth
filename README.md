@@ -15,6 +15,7 @@ This is a Ubuntu-derived work.
 ##Switching##
 
 Switching between the two installed themes can be easily accomplished by:
+
 	sudo plymouth-set-default-theme osu
 	sudo update-initrd -u
 
